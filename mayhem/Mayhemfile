@@ -1,0 +1,9 @@
+project: chompjs
+target: chompjs-fuzz
+
+testsuite:
+  - file://./fuzz/corpus/
+
+cmds:
+    - cmd: ./chompjs-fuzz
+      libfuzzer: true
