@@ -1,0 +1,39 @@
+{
+    "_id": "64723410be00217d2b4bf945",
+    "index": 0,
+    "guid": "e9b3e494-4949-4a9a-b02b-896b1682f347",
+    "isActive": true,
+    "balance": "$2,378.03",
+    "age": 33,
+    "eyeColor": "green",
+    "company": "OULU",
+    "about": "Irure occaecat voluptate aliquip esse proident eu ullamco qui pariatur anim Lorem minim mollit anim. Magna ullamco enim qui velit laborum qui ullamco cillum id. Magna labore voluptate nisi pariatur. Nostrud voluptate ut nulla exercitation mollit dolor proident officia eu mollit amet Lorem sint.\r\n",
+    "registered": "2022-02-13T01:15:03 +07:00",
+    "latitude": -50.311564,
+    "longitude": 4.317901,
+    "tags": [
+      "aliquip",
+      "aliquip",
+      "adipisicing",
+      "eu",
+      "minim",
+      "excepteur",
+      "sunt"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Love Alford"
+      },
+      {
+        "id": 1,
+        "name": "Preston Pruitt"
+      },
+      {
+        "id": 2,
+        "name": "Emily Snow"
+      }
+    ],
+    "greeting": "Hello, Maribel West! You have 2 unread messages.",
+    "favoriteFruit": "strawberry"
+}
